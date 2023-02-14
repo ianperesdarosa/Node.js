@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ianperesdarosa/Node.js/issues"
   },
-  "homepage": "https://github.com/ianperesdarosa/Node.js#readme"
+  "homepage": "https://github.com/ianperesdarosa/Node.js#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
